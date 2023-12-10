@@ -3,11 +3,7 @@
     margin: 0;
     text-decoration: none;
     list-style: none;
-
-
-        -moz-box-sizing: border-box;
-        -webkit-box-sizing: border-box;
-         box-sizing: border-box;
+    box-sizing: border-box;
 
 }
 body{
